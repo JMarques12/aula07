@@ -54,13 +54,13 @@ input[type="text"]{
 }
 
 form button {
-    background-color: #007bff;
+    background-color: #ffa500;
     color: white;
     cursor: pointer;
 }
 
 button {
-    background-color: #007bff;
+    background-color: black;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -73,7 +73,7 @@ button {
 }
 
 .vizualizar {
-    background-color: #28a745;
+    background-color: #007bff;
 }
 
 .faixa {
@@ -86,7 +86,7 @@ button {
     padding-right: 20px;
     margin-top: 10px;
     margin-bottom: 10px;
-    background-color: #007bff;
+    background-color: #ffa500;
 }
 
 .conteudo {
